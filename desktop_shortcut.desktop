@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Desktop Shortcut
+Comment=none
+Exec=/bin/bash
+Icon=security-high
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=true
